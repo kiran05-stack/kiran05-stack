@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Kiran M! 👋  
+🚀 Aspiring AI/ML Engineer | Software Developer | Open Source Enthusiast  
 
-<!--
-**kiran05-stack/kiran05-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
+- 🔭 I’m currently studying **Artificial Intelligence & Machine Learning** at Dr. Ambedkar Institute of Technology, Bangalore.  
+- 🌱 Learning **Python, JavaScript, AI/ML, Web Development**  
+- 💡 Interested in **AI/ML, Full-Stack Development & Cloud Computing**  
+- 📫 Connect with me: [LinkedIn](your-linkedin-url)  
 
-Here are some ideas to get you started:
+### 💻 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats  
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran05-stack&show_icons=true&theme=radical)  
