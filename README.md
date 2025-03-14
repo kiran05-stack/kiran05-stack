@@ -1,17 +1,27 @@
-# Hi there, I'm Kiran M! 👋  
-🚀 Aspiring AI/ML Engineer | Software Developer | Open Source Enthusiast  
+# Hi there! 👋 I'm Kiran M
 
-### 🌟 About Me  
-- 🔭 I’m currently studying **Artificial Intelligence & Machine Learning** at Dr. Ambedkar Institute of Technology, Bangalore.  
-- 🌱 Learning **Python, JavaScript, AI/ML, Web Development**  
-- 💡 Interested in **AI/ML, Full-Stack Development & Cloud Computing**  
-- 📫 Connect with me: [LinkedIn](your-linkedin-url)  
+## 🚀 About Me
 
-### 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+I'm a passionate **Artificial Intelligence & Machine Learning** student at **Dr. Ambedkar Institute of Technology, Bangalore**. My goal is to become a **Software Engineer at Microsoft** and work on cutting-edge AI technologies.
 
-### 📈 GitHub Stats  
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran05-stack&show_icons=true&theme=radical)  
+## 🔥 Skills
+- **Programming:** Python, JavaScript, HTML, CSS  
+- **AI/ML:** Basics of Machine Learning & AI  
+- **Web Development:** Frontend Development with JavaScript, CSS, HTML  
+- **Version Control:** Git & GitHub  
+
+## 📌 Projects (Coming Soon!)
+🔹 **Portfolio Website** – A personal website to showcase my skills and projects.  
+🔹 **AI Chatbot** – A basic chatbot using Python and NLP.  
+🔹 **To-Do App** – A simple web app to manage daily tasks.  
+
+## 📊 GitHub Stats
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran05-stack&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kiran05-stack/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/kiran05-stack)  
+
+---
+
+🔹 **I'm constantly learning and improving!** Feel free to check out my repositories and collaborate on exciting projects. 🚀
