@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kiran M! 👋</h1>
 
 <p align="center">
-  🚀 AI/ML Enthusiast | 🎨 Web Developer | 🎯 Aspiring Microsoft Engineer  
+  🚀 AI/ML Enthusiast | 🎨 Web Developer | 
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎯 *Passionate about AI, Machine Learning, and Software Development*  
 - 🌱 *Currently learning:* Deep Learning & Full-Stack Web Dev  
 - 💬 *Ask me about:* Python, JavaScript, AI models, and Web Dev  
-- 🎯 *Goal:* Get a job at *Microsoft* as an AI/ML Engineer  
+
 
 ---
 
