@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kiran M! 👋</h1>
+<h1 align="center">Hi There, I'm Kiran M! 👋</h1>
 
 <p align="center">
   🚀 AI/ML Enthusiast | 🎨 Web Developer | 
