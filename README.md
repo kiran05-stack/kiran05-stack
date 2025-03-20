@@ -6,6 +6,21 @@
 
 ---
 
+<svg width="100%" height="10">
+    <rect width="100%" height="10" fill="url(#gradient)">
+        <animate attributeName="width" values="0%;100%;0%" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="0%" style="stop-color: red;" />
+            <stop offset="25%" style="stop-color: orange;" />
+            <stop offset="50%" style="stop-color: yellow;" />
+            <stop offset="75%" style="stop-color: green;" />
+            <stop offset="100%" style="stop-color: blue;" />
+        </linearGradient>
+    </defs>
+</svg>
+
 ### 💡 About Me  
 - 🏫 *Engineering Student at Dr. Ambedkar Institute of Technology*  
 - 🎯 *Passionate about AI, Machine Learning, and Software Development*  
@@ -14,6 +29,21 @@
 
 
 ---
+<svg width="100%" height="10">
+    <rect width="100%" height="10" fill="url(#gradient)">
+        <animate attributeName="width" values="0%;100%;0%" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="0%" style="stop-color: red;" />
+            <stop offset="25%" style="stop-color: orange;" />
+            <stop offset="50%" style="stop-color: yellow;" />
+            <stop offset="75%" style="stop-color: green;" />
+            <stop offset="100%" style="stop-color: blue;" />
+        </linearGradient>
+    </defs>
+</svg>
+
 
 ### 🚀 Tech Stack  
 
@@ -35,6 +65,21 @@
 </p>
 
 ---
+<svg width="100%" height="10">
+    <rect width="100%" height="10" fill="url(#gradient)">
+        <animate attributeName="width" values="0%;100%;0%" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="0%" style="stop-color: red;" />
+            <stop offset="25%" style="stop-color: orange;" />
+            <stop offset="50%" style="stop-color: yellow;" />
+            <stop offset="75%" style="stop-color: green;" />
+            <stop offset="100%" style="stop-color: blue;" />
+        </linearGradient>
+    </defs>
+</svg>
+
 
 ### 📫 Connect With Me  
 
