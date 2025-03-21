@@ -5,7 +5,6 @@
 ### 🚀 About Me
 - 🎓 AI & ML Engineering Student at Dr. Ambedkar Institute of Technology
 - 💻 Passionate about Web Development & AI/ML
-- 🚀 Aspiring to work at **Microsoft** as a Software Engineer
 - 🔥 Learning & Building projects
 
 ### 🌈 Technologies & Skills
