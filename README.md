@@ -5,7 +5,10 @@
 <h1 align="center">Hi 👋, I'm Kiran M</h1>
 <h3 align="center">A Passionate AI & ML Engineer From India.</h3>
 
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=600&lines=________________________________________________________________________________________________________" />
+</div>
 
 ### 🙋‍♂️ About Me  
 - 👨‍🎓 Studying AI & ML Engineering at **Dr. Ambedkar Institute Of Technology**  
@@ -13,7 +16,10 @@
 - 🌱 Currently exploring **Machine Learning**  
 - 👩‍💻 Know me more on [LinkedIn](https://www.linkedin.com/in/kiran-m-ab5454333/)  
 
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&lines=________________________________________________________________________________________________________" />
+</div>
 
 ## 💻 Tech Stack:  
 <div align="center">
@@ -24,11 +30,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)  
 </div>
 
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=600&lines=________________________________________________________________________________________________________" />
+</div>
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -39,22 +46,10 @@
 
 </div>
 
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=kiran05-stack&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
-
-## 🔝 Top Contributed Repo  
+<!-- Gradient Line -->
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=kiran05-stack&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)  
-[![](https://visitcount.itsvg.in/api?id=kiran05-stack&icon=0&color=10)](https://visitcount.itsvg.in)  
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=________________________________________________________________________________________________________" />
 </div>
-
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
 
 ## 👋 Connect With Me  
 <div align="center">
@@ -64,5 +59,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirank4989@gmail.com)  
 
 </div>
-
-<hr style="height: 2px; border-width: 0; color: gray; background-color: gray;">
