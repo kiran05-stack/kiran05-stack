@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Kiran M</h1>
 <h3 align="center">A Passionate AI & ML Engineer From India.</h3>
 
-<!-- Gradient Line -->
+<!-- Animated Gradient Line -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=600&lines=________________________________________________________________________________________________________" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&section=header&animation=fadeIn&width=100%" />
 </div>
 
 ### 🙋‍♂️ About Me  
@@ -16,9 +16,9 @@
 - 🌱 Currently exploring **Machine Learning**  
 - 👩‍💻 Know me more on [LinkedIn](https://www.linkedin.com/in/kiran-m-ab5454333/)  
 
-<!-- Gradient Line -->
+<!-- Animated Gradient Line -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&lines=________________________________________________________________________________________________________" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&section=header&animation=fadeIn&width=100%" />
 </div>
 
 ## 💻 Tech Stack:  
@@ -32,9 +32,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
 </div>
 
-<!-- Gradient Line -->
+<!-- Animated Gradient Line -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=600&lines=________________________________________________________________________________________________________" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&section=header&animation=fadeIn&width=100%" />
 </div>
 
 ## 📊 GitHub Stats:
@@ -46,9 +46,9 @@
 
 </div>
 
-<!-- Gradient Line -->
+<!-- Animated Gradient Line -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=________________________________________________________________________________________________________" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&section=header&animation=fadeIn&width=100%" />
 </div>
 
 ## 👋 Connect With Me  
