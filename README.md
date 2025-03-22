@@ -1,50 +1,34 @@
-<h1 align="center">
-  🚀 Welcome to My GitHub Profile! 🚀
-</h1>
-
-<!-- Animated Typing Effect -->
+<h1 align="center">Hi, I'm Kiran M! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineering+Student;Aspiring+Software+Engineer;Freelancer+%7C+Web+Developer" />
+  <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
 </p>
 
 ---
 
-<!-- Animated Gradient Border -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=100&section=header" />
-</p>
+## 👨‍💻 About Me  
+- 🎓 **College:** Dr. Ambedkar Institute of Technology, Bangalore  
+- 💡 **Interests:** AI/ML, Software Development, App Development  
+- 🎯 **Goal:** To become an AI/ML Engineer at Microsoft  
+- 🌱 **Currently Learning:** Web Development, Python, and AI  
 
 ---
 
-## 🌟 **About Me**
-- 🏫 **Student at Dr. Ambedkar Institute of Technology**  
-- 🔭 Exploring **AI/ML & Web Development**  
-- 🌱 Passionate about **Open Source & Freelancing**  
-- 💻 Building cool projects!  
+## 🚀 Skills  
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Tools:** React, Node.js, Git, GitHub  
+- **Other Skills:** Problem-Solving, Mathematics  
 
 ---
 
-## 🚀 **Skills & Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode,figma" />
-</p>
+## 🔗 Connect with Me  
+- 🌍 **GitHub:** [kiran05-stack](https://github.com/kiran05-stack)  
+- 💼 **LinkedIn:** [Kiran M](https://www.linkedin.com/in/kiran-m-ab5454333/)  
+- 🎓 **ORCID:** [0009-0007-2036-7941](https://orcid.org/0009-0007-2036-7941)  
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran05-stack&theme=radical" alt="GitHub Streak Stats">
-</p>
+⭐ **Fun Fact:** I love singing God songs in my own raga while doing daily tasks! 🎶  
 
 ---
 
-## 🌎 **Connect with Me**
-🌐 **GitHub:** [github.com/kiran05-stack](https://github.com/kiran05-stack)  
-🔗 **LinkedIn:** [linkedin.com/in/kiran-m-ab5454333](https://www.linkedin.com/in/kiran-m-ab5454333/)  
-
----
-
-<!-- Animated Gradient Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=100&section=footer" />
-</p>
+💻 **Thanks for visiting!** Feel free to explore my projects! 🚀
