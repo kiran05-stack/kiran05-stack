@@ -40,7 +40,7 @@
 
 ## 🌎 **Connect with Me**
 🌐 **GitHub:** [github.com/kiran05-stack](https://github.com/kiran05-stack)  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
+🔗 **LinkedIn:** [linkedin.com/in/kiran-m-ab5454333](https://www.linkedin.com/in/kiran-m-ab5454333/)  
 
 ---
 
