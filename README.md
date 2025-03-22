@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me  
 - 🎓 **College:** Dr. Ambedkar Institute of Technology, Bangalore  
 - 💡 **Interests:** AI/ML, Software Development, App Development  
-- 🎯 **Goal:** To become an AI/ML Engineer at Microsoft  
 - 🌱 **Currently Learning:** Web Development, Python, and AI  
 
 ---
@@ -16,7 +15,7 @@
 ## 🚀 Skills  
 - **Languages:** JavaScript, Python, HTML, CSS  
 - **Frameworks & Tools:** React, Node.js, Git, GitHub  
-- **Other Skills:** Problem-Solving, Mathematics  
+- **Other Skills:** Problem-Solving, Mathematics 
 
 ---
 
@@ -25,9 +24,6 @@
 - 💼 **LinkedIn:** [Kiran M](https://www.linkedin.com/in/kiran-m-ab5454333/)  
 - 🎓 **ORCID:** [0009-0007-2036-7941](https://orcid.org/0009-0007-2036-7941)  
 
----
-
-⭐ **Fun Fact:** I love singing God songs in my own raga while doing daily tasks! 🎶  
 
 ---
 
