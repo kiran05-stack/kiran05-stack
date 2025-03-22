@@ -1,29 +1,50 @@
-## Hi there, I'm Kiran! 👋
+<h1 align="center">
+  🚀 Welcome to My GitHub Profile! 🚀
+</h1>
 
-![Kiran's Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kiran%20M&fontSize=40&fontColor=fff)
-
-### 🚀 About Me
-- 🎓 AI & ML Engineering Student at Dr. Ambedkar Institute of Technology
-- 💻 Passionate about Web Development & AI/ML
-- 🔥 Learning & Building projects
-
-### 🌈 Technologies & Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 GitHub Stats
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran05-stack&show_icons=true&theme=radical)
-
-### 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiran05-stack&theme=radical)
-
-
-### 📫 Connect With Me
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiran05-stack)
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineering+Student;Aspiring+Software+Engineer;Freelancer+%7C+Web+Developer" />
+</p>
 
 ---
-⭐️ *Feel free to explore my repositories & projects!*
+
+<!-- Animated Gradient Border -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=100&section=header" />
+</p>
+
+---
+
+## 🌟 **About Me**
+- 🏫 **Student at Dr. Ambedkar Institute of Technology**  
+- 🔭 Exploring **AI/ML & Web Development**  
+- 🌱 Passionate about **Open Source & Freelancing**  
+- 💻 Building cool projects!  
+
+---
+
+## 🚀 **Skills & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran05-stack&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+---
+
+## 🌎 **Connect with Me**
+🌐 **GitHub:** [github.com/kiran05-stack](https://github.com/kiran05-stack)  
+🔗 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
+
+---
+
+<!-- Animated Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=100&section=footer" />
+</p>
